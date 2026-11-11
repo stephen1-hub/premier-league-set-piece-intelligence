@@ -1,0 +1,36 @@
+cat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.log
+.DS_Store
+
+# Raw data
+data/raw/
+
+# Test/cache
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.vscode/
+EOF

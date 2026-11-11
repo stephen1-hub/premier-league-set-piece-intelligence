@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+python-dotenv
+tqdm
+beautifulsoup4
+matplotlib
+streamlit
+plotly

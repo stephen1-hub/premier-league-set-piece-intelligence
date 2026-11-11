@@ -1,0 +1,201 @@
+match_id,matchweek,match_date,home_team,away_team,team,venue,corners,open_play_xg,set_play_xg,corner_shots,corner_goals,free_kick_shots,free_kick_goals
+5795363,1,"Fri, Aug 21, 2026, 19:00 UTC",Arsenal,Coventry City,Arsenal,Home,8.0,1.62,0.26,5,0,1,0
+5795363,1,"Fri, Aug 21, 2026, 19:00 UTC",Arsenal,Coventry City,Coventry City,Away,2.0,0.2,0.0,0,0,0,0
+5795364,1,"Sat, Aug 22, 2026, 11:30 UTC",Hull City,Manchester United,Hull City,Home,1.0,0.07,0.94,2,1,0,0
+5795364,1,"Sat, Aug 22, 2026, 11:30 UTC",Hull City,Manchester United,Manchester United,Away,6.0,1.52,0.31,2,0,0,0
+5795365,1,"Sat, Aug 22, 2026, 14:00 UTC",Everton,Crystal Palace,Everton,Home,4.0,0.62,0.5,2,0,0,0
+5795365,1,"Sat, Aug 22, 2026, 14:00 UTC",Everton,Crystal Palace,Crystal Palace,Away,0.0,1.96,0.0,0,0,0,0
+5795366,1,"Sat, Aug 22, 2026, 14:00 UTC",Ipswich Town,Sunderland,Ipswich Town,Home,3.0,1.72,0.07,1,0,0,0
+5795366,1,"Sat, Aug 22, 2026, 14:00 UTC",Ipswich Town,Sunderland,Sunderland,Away,5.0,0.48,0.18,3,0,1,1
+5795367,1,"Sat, Aug 22, 2026, 14:00 UTC",Nottingham Forest,Leeds United,Nottingham Forest,Home,3.0,0.19,0.47,2,0,1,0
+5795367,1,"Sat, Aug 22, 2026, 14:00 UTC",Nottingham Forest,Leeds United,Leeds United,Away,2.0,0.14,0.33,0,0,2,1
+5795368,1,"Sat, Aug 22, 2026, 16:30 UTC",Brentford,Tottenham Hotspur,Brentford,Home,7.0,1.85,1.23,9,1,1,0
+5795368,1,"Sat, Aug 22, 2026, 16:30 UTC",Brentford,Tottenham Hotspur,Tottenham Hotspur,Away,3.0,0.53,0.03,0,0,1,0
+5795369,1,"Sun, Aug 23, 2026, 13:00 UTC",Brighton & Hove Albion,Aston Villa,Brighton & Hove Albion,Home,5.0,3.54,0.22,3,0,0,0
+5795369,1,"Sun, Aug 23, 2026, 13:00 UTC",Brighton & Hove Albion,Aston Villa,Aston Villa,Away,2.0,0.18,0.11,1,0,0,0
+5795370,1,"Sun, Aug 23, 2026, 13:00 UTC",Manchester City,AFC Bournemouth,Manchester City,Home,8.0,1.21,1.04,4,1,0,0
+5795370,1,"Sun, Aug 23, 2026, 13:00 UTC",Manchester City,AFC Bournemouth,AFC Bournemouth,Away,3.0,0.55,0.1,0,0,0,0
+5795371,1,"Sun, Aug 23, 2026, 15:30 UTC",Newcastle United,Liverpool,Newcastle United,Home,2.0,1.46,0.12,0,0,1,0
+5795371,1,"Sun, Aug 23, 2026, 15:30 UTC",Newcastle United,Liverpool,Liverpool,Away,6.0,0.96,1.24,6,0,2,0
+5795372,1,"Mon, Aug 24, 2026, 19:00 UTC",Fulham,Chelsea,Fulham,Home,6.0,1.28,0.05,1,0,0,0
+5795372,1,"Mon, Aug 24, 2026, 19:00 UTC",Fulham,Chelsea,Chelsea,Away,4.0,1.96,0.28,3,0,0,0
+5795429,2,"Fri, Aug 28, 2026, 19:00 UTC",Crystal Palace,Manchester City,Crystal Palace,Home,2.0,0.47,0.2,1,0,1,0
+5795429,2,"Fri, Aug 28, 2026, 19:00 UTC",Crystal Palace,Manchester City,Manchester City,Away,6.0,1.81,0.4,5,0,0,0
+5795431,2,"Sat, Aug 29, 2026, 11:30 UTC",Liverpool,Nottingham Forest,Liverpool,Home,3.0,1.67,0.08,1,0,1,0
+5795431,2,"Sat, Aug 29, 2026, 11:30 UTC",Liverpool,Nottingham Forest,Nottingham Forest,Away,5.0,1.16,0.35,2,0,0,0
+5795425,2,"Sat, Aug 29, 2026, 14:00 UTC",AFC Bournemouth,Everton,AFC Bournemouth,Home,10.0,1.17,0.99,4,0,0,0
+5795425,2,"Sat, Aug 29, 2026, 14:00 UTC",AFC Bournemouth,Everton,Everton,Away,7.0,1.59,0.25,4,1,0,0
+5795428,2,"Sat, Aug 29, 2026, 14:00 UTC",Coventry City,Hull City,Coventry City,Home,6.0,1.29,0.01,1,0,0,0
+5795428,2,"Sat, Aug 29, 2026, 14:00 UTC",Coventry City,Hull City,Hull City,Away,2.0,0.71,0.01,0,0,0,0
+5795434,2,"Sat, Aug 29, 2026, 16:30 UTC",Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Home,9.0,0.82,0.3,5,0,1,0
+5795434,2,"Sat, Aug 29, 2026, 16:30 UTC",Tottenham Hotspur,Newcastle United,Newcastle United,Away,7.0,0.36,0.36,3,1,0,0
+5795427,2,"Sun, Aug 30, 2026, 13:00 UTC",Chelsea,Brighton & Hove Albion,Chelsea,Home,4.0,1.9,1.03,3,2,0,0
+5795427,2,"Sun, Aug 30, 2026, 13:00 UTC",Chelsea,Brighton & Hove Albion,Brighton & Hove Albion,Away,7.0,0.74,0.67,1,0,0,0
+5795430,2,"Sun, Aug 30, 2026, 13:00 UTC",Leeds United,Brentford,Leeds United,Home,5.0,1.29,0.17,1,0,1,0
+5795430,2,"Sun, Aug 30, 2026, 13:00 UTC",Leeds United,Brentford,Brentford,Away,6.0,1.32,0.35,4,0,0,0
+5795433,2,"Sun, Aug 30, 2026, 13:00 UTC",Sunderland,Fulham,Sunderland,Home,3.0,1.77,0.25,1,0,0,0
+5795433,2,"Sun, Aug 30, 2026, 13:00 UTC",Sunderland,Fulham,Fulham,Away,4.0,0.61,0.34,4,0,0,0
+5795432,2,"Sun, Aug 30, 2026, 15:30 UTC",Manchester United,Ipswich Town,Manchester United,Home,8.0,3.72,0.26,4,0,2,0
+5795432,2,"Sun, Aug 30, 2026, 15:30 UTC",Manchester United,Ipswich Town,Ipswich Town,Away,4.0,1.97,0.09,2,0,0,0
+5795426,2,"Mon, Aug 31, 2026, 19:00 UTC",Aston Villa,Arsenal,Aston Villa,Home,2.0,0.33,0.0,0,0,0,0
+5795426,2,"Mon, Aug 31, 2026, 19:00 UTC",Aston Villa,Arsenal,Arsenal,Away,4.0,0.73,0.31,2,0,1,0
+5795441,3,"Fri, Sep 4, 2026, 19:00 UTC",Ipswich Town,Liverpool,Ipswich Town,Home,4.0,0.64,0.11,0,0,0,0
+5795441,3,"Fri, Sep 4, 2026, 19:00 UTC",Ipswich Town,Liverpool,Liverpool,Away,3.0,0.62,0.07,1,0,0,0
+5795443,3,"Sat, Sep 5, 2026, 11:30 UTC",Newcastle United,AFC Bournemouth,Newcastle United,Home,4.0,0.47,0.24,1,0,1,0
+5795443,3,"Sat, Sep 5, 2026, 11:30 UTC",Newcastle United,AFC Bournemouth,AFC Bournemouth,Away,3.0,1.25,0.12,1,0,1,0
+5795436,3,"Sat, Sep 5, 2026, 14:00 UTC",Brentford,Sunderland,Brentford,Home,4.0,0.58,0.63,3,0,0,0
+5795436,3,"Sat, Sep 5, 2026, 14:00 UTC",Brentford,Sunderland,Sunderland,Away,3.0,0.53,0.4,1,0,2,0
+5795437,3,"Sat, Sep 5, 2026, 14:00 UTC",Brighton & Hove Albion,Leeds United,Brighton & Hove Albion,Home,7.0,1.54,0.65,1,1,0,0
+5795437,3,"Sat, Sep 5, 2026, 14:00 UTC",Brighton & Hove Albion,Leeds United,Leeds United,Away,6.0,0.58,1.91,5,1,0,0
+5795439,3,"Sat, Sep 5, 2026, 14:00 UTC",Fulham,Crystal Palace,Fulham,Home,7.0,2.68,0.46,3,0,0,0
+5795439,3,"Sat, Sep 5, 2026, 14:00 UTC",Fulham,Crystal Palace,Crystal Palace,Away,1.0,1.93,0.04,1,0,0,0
+5795442,3,"Sat, Sep 5, 2026, 14:00 UTC",Manchester City,Coventry City,Manchester City,Home,4.0,1.89,0.23,1,0,0,0
+5795442,3,"Sat, Sep 5, 2026, 14:00 UTC",Manchester City,Coventry City,Coventry City,Away,5.0,0.71,0.66,3,0,0,0
+5795444,3,"Sat, Sep 5, 2026, 14:00 UTC",Nottingham Forest,Tottenham Hotspur,Nottingham Forest,Home,2.0,0.75,0.17,2,0,0,0
+5795444,3,"Sat, Sep 5, 2026, 14:00 UTC",Nottingham Forest,Tottenham Hotspur,Tottenham Hotspur,Away,10.0,0.35,0.72,3,0,1,0
+5795440,3,"Sat, Sep 5, 2026, 16:30 UTC",Hull City,Aston Villa,Hull City,Home,3.0,0.51,0.06,1,0,0,0
+5795440,3,"Sat, Sep 5, 2026, 16:30 UTC",Hull City,Aston Villa,Aston Villa,Away,4.0,1.72,0.2,3,0,1,0
+5795438,3,"Sun, Sep 6, 2026, 13:00 UTC",Everton,Manchester United,Everton,Home,4.0,0.66,0.35,1,0,0,0
+5795438,3,"Sun, Sep 6, 2026, 13:00 UTC",Everton,Manchester United,Manchester United,Away,3.0,0.64,0.05,2,0,0,0
+5795435,3,"Sun, Sep 6, 2026, 15:30 UTC",Arsenal,Chelsea,Arsenal,Home,5.0,1.44,0.61,0,0,0,0
+5795435,3,"Sun, Sep 6, 2026, 15:30 UTC",Arsenal,Chelsea,Chelsea,Away,3.0,0.32,0.07,1,0,1,0
+5795445,4,"Sat, Sep 12, 2026, 14:00 UTC",AFC Bournemouth,Brentford,AFC Bournemouth,Home,2.0,1.13,0.62,1,0,1,0
+5795445,4,"Sat, Sep 12, 2026, 14:00 UTC",AFC Bournemouth,Brentford,Brentford,Away,1.0,0.37,0.13,0,0,0,0
+5795446,4,"Sat, Sep 12, 2026, 14:00 UTC",Aston Villa,Nottingham Forest,Aston Villa,Home,6.0,0.74,0.08,1,1,0,0
+5795446,4,"Sat, Sep 12, 2026, 14:00 UTC",Aston Villa,Nottingham Forest,Nottingham Forest,Away,1.0,1.95,0.33,0,0,1,0
+5795447,4,"Sat, Sep 12, 2026, 14:00 UTC",Chelsea,Hull City,Chelsea,Home,10.0,0.75,0.16,1,0,3,0
+5795447,4,"Sat, Sep 12, 2026, 14:00 UTC",Chelsea,Hull City,Hull City,Away,4.0,1.15,0.24,3,1,0,0
+5795449,4,"Sat, Sep 12, 2026, 14:00 UTC",Crystal Palace,Ipswich Town,Crystal Palace,Home,6.0,0.61,0.01,0,0,0,0
+5795449,4,"Sat, Sep 12, 2026, 14:00 UTC",Crystal Palace,Ipswich Town,Ipswich Town,Away,3.0,1.62,0.06,1,0,0,0
+5795451,4,"Sat, Sep 12, 2026, 14:00 UTC",Liverpool,Fulham,Liverpool,Home,5.0,0.84,0.44,2,0,1,0
+5795451,4,"Sat, Sep 12, 2026, 14:00 UTC",Liverpool,Fulham,Fulham,Away,8.0,0.59,0.11,3,0,0,0
+5795454,4,"Sat, Sep 12, 2026, 16:30 UTC",Tottenham Hotspur,Everton,Tottenham Hotspur,Home,5.0,0.52,0.17,2,0,0,0
+5795454,4,"Sat, Sep 12, 2026, 16:30 UTC",Tottenham Hotspur,Everton,Everton,Away,6.0,0.76,0.35,2,0,1,0
+5795453,4,"Sat, Sep 12, 2026, 19:00 UTC",Sunderland,Arsenal,Sunderland,Home,4.0,0.46,0.55,3,0,0,0
+5795453,4,"Sat, Sep 12, 2026, 19:00 UTC",Sunderland,Arsenal,Arsenal,Away,2.0,1.01,0.08,1,0,0,0
+5795448,4,"Sun, Sep 13, 2026, 13:00 UTC",Coventry City,Brighton & Hove Albion,Coventry City,Home,5.0,0.62,0.71,2,0,0,0
+5795448,4,"Sun, Sep 13, 2026, 13:00 UTC",Coventry City,Brighton & Hove Albion,Brighton & Hove Albion,Away,3.0,1.84,0.17,0,0,0,0
+5795452,4,"Sun, Sep 13, 2026, 15:30 UTC",Manchester United,Manchester City,Manchester United,Home,6.0,0.8,0.2,2,0,1,0
+5795452,4,"Sun, Sep 13, 2026, 15:30 UTC",Manchester United,Manchester City,Manchester City,Away,7.0,0.62,0.48,2,0,0,0
+5795450,4,"Mon, Sep 14, 2026, 19:00 UTC",Leeds United,Newcastle United,Leeds United,Home,5.0,1.93,0.06,1,0,0,0
+5795450,4,"Mon, Sep 14, 2026, 19:00 UTC",Leeds United,Newcastle United,Newcastle United,Away,5.0,0.61,0.27,0,0,0,0
+5795456,5,"Fri, Sep 18, 2026, 19:00 UTC",Brentford,Chelsea,Brentford,Home,4.0,1.17,1.48,1,1,0,0
+5795456,5,"Fri, Sep 18, 2026, 19:00 UTC",Brentford,Chelsea,Chelsea,Away,12.0,0.59,0.24,2,0,1,0
+5795464,5,"Sat, Sep 19, 2026, 11:30 UTC",Tottenham Hotspur,Aston Villa,Tottenham Hotspur,Home,11.0,0.89,0.67,8,0,1,0
+5795464,5,"Sat, Sep 19, 2026, 11:30 UTC",Tottenham Hotspur,Aston Villa,Aston Villa,Away,1.0,1.26,0.0,0,0,0,0
+5795457,5,"Sat, Sep 19, 2026, 14:00 UTC",Brighton & Hove Albion,Arsenal,Brighton & Hove Albion,Home,5.0,0.75,0.56,6,1,0,0
+5795457,5,"Sat, Sep 19, 2026, 14:00 UTC",Brighton & Hove Albion,Arsenal,Arsenal,Away,6.0,1.08,0.55,4,0,0,0
+5795458,5,"Sat, Sep 19, 2026, 14:00 UTC",Everton,Ipswich Town,Everton,Home,4.0,2.16,0.07,1,0,0,0
+5795458,5,"Sat, Sep 19, 2026, 14:00 UTC",Everton,Ipswich Town,Ipswich Town,Away,4.0,1.37,0.07,1,0,0,0
+5795462,5,"Sat, Sep 19, 2026, 14:00 UTC",Newcastle United,Hull City,Newcastle United,Home,4.0,0.52,0.13,0,0,0,0
+5795462,5,"Sat, Sep 19, 2026, 14:00 UTC",Newcastle United,Hull City,Hull City,Away,7.0,1.19,0.4,4,0,0,0
+5795463,5,"Sat, Sep 19, 2026, 16:30 UTC",Nottingham Forest,Coventry City,Nottingham Forest,Home,6.0,0.78,0.32,2,0,0,0
+5795463,5,"Sat, Sep 19, 2026, 16:30 UTC",Nottingham Forest,Coventry City,Coventry City,Away,2.0,0.54,0.13,0,0,0,0
+5795455,5,"Sun, Sep 20, 2026, 13:00 UTC",AFC Bournemouth,Liverpool,AFC Bournemouth,Home,3.0,0.72,0.08,1,0,1,0
+5795455,5,"Sun, Sep 20, 2026, 13:00 UTC",AFC Bournemouth,Liverpool,Liverpool,Away,3.0,1.52,0.13,0,0,2,0
+5795460,5,"Sun, Sep 20, 2026, 13:00 UTC",Leeds United,Crystal Palace,Leeds United,Home,4.0,0.62,0.69,3,0,1,0
+5795460,5,"Sun, Sep 20, 2026, 13:00 UTC",Leeds United,Crystal Palace,Crystal Palace,Away,3.0,0.3,0.76,2,0,1,0
+5795461,5,"Sun, Sep 20, 2026, 13:00 UTC",Manchester City,Sunderland,Manchester City,Home,6.0,2.39,0.43,5,1,1,1
+5795461,5,"Sun, Sep 20, 2026, 13:00 UTC",Manchester City,Sunderland,Sunderland,Away,5.0,1.76,1.81,2,0,0,0
+5795459,5,"Sun, Sep 20, 2026, 15:30 UTC",Fulham,Manchester United,Fulham,Home,3.0,1.62,0.0,0,0,0,0
+5795459,5,"Sun, Sep 20, 2026, 15:30 UTC",Fulham,Manchester United,Manchester United,Away,13.0,1.17,0.43,11,0,0,0
+5795465,6,"Sat, Oct 10, 2026, 11:30 UTC",Arsenal,Leeds United,Arsenal,Home,2.0,2.28,0.05,1,0,0,0
+5795465,6,"Sat, Oct 10, 2026, 11:30 UTC",Arsenal,Leeds United,Leeds United,Away,4.0,0.47,0.16,0,0,0,0
+5795466,6,"Sat, Oct 10, 2026, 14:00 UTC",Aston Villa,Brentford,Aston Villa,Home,2.0,2.21,0.07,0,0,1,0
+5795466,6,"Sat, Oct 10, 2026, 14:00 UTC",Aston Villa,Brentford,Brentford,Away,2.0,0.84,0.22,0,0,0,0
+5795467,6,"Sat, Oct 10, 2026, 14:00 UTC",Chelsea,AFC Bournemouth,Chelsea,Home,1.0,1.01,0.08,0,0,1,1
+5795467,6,"Sat, Oct 10, 2026, 14:00 UTC",Chelsea,AFC Bournemouth,AFC Bournemouth,Away,7.0,0.37,1.01,3,1,0,0
+5795471,6,"Sat, Oct 10, 2026, 14:00 UTC",Ipswich Town,Fulham,Ipswich Town,Home,2.0,0.72,0.42,0,0,1,0
+5795471,6,"Sat, Oct 10, 2026, 14:00 UTC",Ipswich Town,Fulham,Fulham,Away,5.0,1.53,0.28,2,1,1,0
+5795474,6,"Sat, Oct 10, 2026, 14:00 UTC",Sunderland,Brighton & Hove Albion,Sunderland,Home,7.0,0.47,0.26,1,0,1,0
+5795474,6,"Sat, Oct 10, 2026, 14:00 UTC",Sunderland,Brighton & Hove Albion,Brighton & Hove Albion,Away,5.0,0.67,0.75,2,0,0,0
+5795473,6,"Sat, Oct 10, 2026, 16:30 UTC",Manchester United,Tottenham Hotspur,Manchester United,Home,4.0,0.57,0.23,3,0,0,0
+5795473,6,"Sat, Oct 10, 2026, 16:30 UTC",Manchester United,Tottenham Hotspur,Tottenham Hotspur,Away,4.0,1.54,0.08,2,0,0,0
+5795469,6,"Sun, Oct 11, 2026, 13:00 UTC",Crystal Palace,Nottingham Forest,Crystal Palace,Home,5.0,1.64,0.78,4,1,0,0
+5795469,6,"Sun, Oct 11, 2026, 13:00 UTC",Crystal Palace,Nottingham Forest,Nottingham Forest,Away,8.0,2.36,0.98,5,0,1,0
+5795470,6,"Sun, Oct 11, 2026, 13:00 UTC",Hull City,Everton,Hull City,Home,7.0,1.03,0.3,1,0,0,0
+5795470,6,"Sun, Oct 11, 2026, 13:00 UTC",Hull City,Everton,Everton,Away,6.0,0.87,0.81,4,1,1,0
+5795472,6,"Sun, Oct 11, 2026, 15:30 UTC",Liverpool,Manchester City,Liverpool,Home,5.0,0.43,0.51,2,0,1,0
+5795472,6,"Sun, Oct 11, 2026, 15:30 UTC",Liverpool,Manchester City,Manchester City,Away,6.0,1.18,0.1,2,0,0,0
+5795468,6,"Mon, Oct 12, 2026, 19:00 UTC",Coventry City,Newcastle United,Coventry City,Home,2.0,0.49,0.2,1,0,0,0
+5795468,6,"Mon, Oct 12, 2026, 19:00 UTC",Coventry City,Newcastle United,Newcastle United,Away,6.0,1.78,0.05,1,0,0,0
+5795478,7,"Sat, Oct 17, 2026, 11:30 UTC",Everton,Chelsea,Everton,Home,5.0,0.13,0.3,1,0,0,0
+5795478,7,"Sat, Oct 17, 2026, 11:30 UTC",Everton,Chelsea,Chelsea,Away,7.0,0.95,0.51,5,0,1,0
+5795476,7,"Sat, Oct 17, 2026, 14:00 UTC",Brentford,Liverpool,Brentford,Home,3.0,0.6,0.28,0,0,0,0
+5795476,7,"Sat, Oct 17, 2026, 14:00 UTC",Brentford,Liverpool,Liverpool,Away,9.0,1.26,0.38,7,0,1,0
+5795479,7,"Sat, Oct 17, 2026, 14:00 UTC",Fulham,Hull City,Fulham,Home,10.0,1.09,0.29,4,0,1,0
+5795479,7,"Sat, Oct 17, 2026, 14:00 UTC",Fulham,Hull City,Hull City,Away,2.0,0.09,0.07,0,0,1,0
+5795481,7,"Sat, Oct 17, 2026, 14:00 UTC",Manchester City,Ipswich Town,Manchester City,Home,2.0,2.95,0.4,1,0,1,0
+5795481,7,"Sat, Oct 17, 2026, 14:00 UTC",Manchester City,Ipswich Town,Ipswich Town,Away,3.0,0.68,0.39,2,0,0,0
+5795482,7,"Sat, Oct 17, 2026, 16:30 UTC",Newcastle United,Aston Villa,Newcastle United,Home,4.0,0.77,0.22,1,0,0,0
+5795482,7,"Sat, Oct 17, 2026, 16:30 UTC",Newcastle United,Aston Villa,Aston Villa,Away,5.0,1.49,0.08,1,0,0,0
+5795475,7,"Sun, Oct 18, 2026, 13:00 UTC",AFC Bournemouth,Sunderland,AFC Bournemouth,Home,5.0,3.87,0.36,3,0,1,0
+5795475,7,"Sun, Oct 18, 2026, 13:00 UTC",AFC Bournemouth,Sunderland,Sunderland,Away,3.0,0.01,0.06,0,0,0,0
+5795477,7,"Sun, Oct 18, 2026, 13:00 UTC",Brighton & Hove Albion,Crystal Palace,Brighton & Hove Albion,Home,8.0,0.93,1.07,3,1,0,0
+5795477,7,"Sun, Oct 18, 2026, 13:00 UTC",Brighton & Hove Albion,Crystal Palace,Crystal Palace,Away,5.0,0.52,0.25,1,0,1,0
+5795480,7,"Sun, Oct 18, 2026, 13:00 UTC",Leeds United,Manchester United,Leeds United,Home,2.0,0.22,1.19,3,1,0,0
+5795480,7,"Sun, Oct 18, 2026, 13:00 UTC",Leeds United,Manchester United,Manchester United,Away,3.0,0.84,0.09,2,0,0,0
+5795483,7,"Sun, Oct 18, 2026, 15:30 UTC",Nottingham Forest,Arsenal,Nottingham Forest,Home,8.0,0.53,0.37,3,0,2,0
+5795483,7,"Sun, Oct 18, 2026, 15:30 UTC",Nottingham Forest,Arsenal,Arsenal,Away,6.0,0.5,0.64,2,0,0,0
+5795484,7,"Mon, Oct 19, 2026, 19:00 UTC",Tottenham Hotspur,Coventry City,Tottenham Hotspur,Home,4.0,0.76,0.1,2,0,0,0
+5795484,7,"Mon, Oct 19, 2026, 19:00 UTC",Tottenham Hotspur,Coventry City,Coventry City,Away,4.0,0.69,0.08,0,0,0,0
+5795491,8,"Fri, Oct 23, 2026, 19:00 UTC",Ipswich Town,Nottingham Forest,Ipswich Town,Home,0.0,0.38,0.07,0,0,1,0
+5795491,8,"Fri, Oct 23, 2026, 19:00 UTC",Ipswich Town,Nottingham Forest,Nottingham Forest,Away,5.0,1.65,0.64,5,0,0,0
+5795486,8,"Sat, Oct 24, 2026, 11:30 UTC",Aston Villa,Manchester City,Aston Villa,Home,4.0,0.49,0.13,2,0,1,0
+5795486,8,"Sat, Oct 24, 2026, 11:30 UTC",Aston Villa,Manchester City,Manchester City,Away,7.0,1.2,0.36,3,0,0,0
+5795485,8,"Sat, Oct 24, 2026, 14:00 UTC",Arsenal,Everton,Arsenal,Home,12.0,1.05,0.91,4,1,0,0
+5795485,8,"Sat, Oct 24, 2026, 14:00 UTC",Arsenal,Everton,Everton,Away,3.0,0.63,0.0,0,0,0,0
+5795488,8,"Sat, Oct 24, 2026, 14:00 UTC",Coventry City,Fulham,Coventry City,Home,4.0,0.22,0.3,4,0,1,0
+5795488,8,"Sat, Oct 24, 2026, 14:00 UTC",Coventry City,Fulham,Fulham,Away,6.0,0.44,0.11,2,1,0,0
+5795487,8,"Sat, Oct 24, 2026, 16:30 UTC",Chelsea,Tottenham Hotspur,Chelsea,Home,4.0,0.45,0.02,1,1,0,0
+5795487,8,"Sat, Oct 24, 2026, 16:30 UTC",Chelsea,Tottenham Hotspur,Tottenham Hotspur,Away,6.0,0.51,0.23,2,0,2,0
+5795489,8,"Sun, Oct 25, 2026, 14:00 UTC",Crystal Palace,Newcastle United,Crystal Palace,Home,7.0,0.38,1.2,6,0,0,0
+5795489,8,"Sun, Oct 25, 2026, 14:00 UTC",Crystal Palace,Newcastle United,Newcastle United,Away,4.0,0.72,0.23,1,0,0,0
+5795490,8,"Sun, Oct 25, 2026, 14:00 UTC",Hull City,Brentford,Hull City,Home,5.0,0.59,0.19,2,0,1,0
+5795490,8,"Sun, Oct 25, 2026, 14:00 UTC",Hull City,Brentford,Brentford,Away,6.0,1.54,0.19,1,0,0,0
+5795492,8,"Sun, Oct 25, 2026, 14:00 UTC",Liverpool,Brighton & Hove Albion,Liverpool,Home,4.0,1.03,0.17,2,0,0,0
+5795492,8,"Sun, Oct 25, 2026, 14:00 UTC",Liverpool,Brighton & Hove Albion,Brighton & Hove Albion,Away,2.0,1.13,0.19,1,0,2,0
+5795493,8,"Sun, Oct 25, 2026, 14:00 UTC",Manchester United,AFC Bournemouth,Manchester United,Home,5.0,0.72,0.45,5,0,0,0
+5795493,8,"Sun, Oct 25, 2026, 14:00 UTC",Manchester United,AFC Bournemouth,AFC Bournemouth,Away,4.0,1.78,0.37,1,0,0,0
+5795494,8,"Sun, Oct 25, 2026, 16:30 UTC",Sunderland,Leeds United,Sunderland,Home,4.0,0.54,0.28,3,0,1,0
+5795494,8,"Sun, Oct 25, 2026, 16:30 UTC",Sunderland,Leeds United,Leeds United,Away,5.0,0.61,0.14,2,0,0,0
+5795498,9,"Sat, Oct 31, 2026, 12:30 UTC",Chelsea,Manchester United,Chelsea,Home,8.0,2.01,0.21,4,0,1,0
+5795498,9,"Sat, Oct 31, 2026, 12:30 UTC",Chelsea,Manchester United,Manchester United,Away,7.0,1.18,0.06,3,0,0,0
+5795495,9,"Sat, Oct 31, 2026, 15:00 UTC",AFC Bournemouth,Leeds United,AFC Bournemouth,Home,4.0,1.24,0.05,1,0,1,0
+5795495,9,"Sat, Oct 31, 2026, 15:00 UTC",AFC Bournemouth,Leeds United,Leeds United,Away,4.0,0.54,0.17,1,0,2,0
+5795497,9,"Sat, Oct 31, 2026, 15:00 UTC",Brentford,Nottingham Forest,Brentford,Home,3.0,0.28,0.18,2,0,1,0
+5795497,9,"Sat, Oct 31, 2026, 15:00 UTC",Brentford,Nottingham Forest,Nottingham Forest,Away,4.0,0.67,0.18,0,0,0,0
+5795499,9,"Sat, Oct 31, 2026, 15:00 UTC",Coventry City,Sunderland,Coventry City,Home,4.0,0.55,0.14,0,0,2,0
+5795499,9,"Sat, Oct 31, 2026, 15:00 UTC",Coventry City,Sunderland,Sunderland,Away,4.0,0.69,0.34,3,0,0,0
+5795500,9,"Sat, Oct 31, 2026, 15:00 UTC",Hull City,Ipswich Town,Hull City,Home,6.0,0.43,0.36,2,0,1,1
+5795500,9,"Sat, Oct 31, 2026, 15:00 UTC",Hull City,Ipswich Town,Ipswich Town,Away,3.0,0.95,0.1,1,0,1,0
+5795502,9,"Sat, Oct 31, 2026, 15:00 UTC",Manchester City,Brighton & Hove Albion,Manchester City,Home,8.0,1.2,0.43,5,0,0,0
+5795502,9,"Sat, Oct 31, 2026, 15:00 UTC",Manchester City,Brighton & Hove Albion,Brighton & Hove Albion,Away,2.0,0.48,0.52,0,0,0,0
+5795504,9,"Sat, Oct 31, 2026, 17:30 UTC",Tottenham Hotspur,Crystal Palace,Tottenham Hotspur,Home,19.0,1.95,1.52,9,2,0,0
+5795504,9,"Sat, Oct 31, 2026, 17:30 UTC",Tottenham Hotspur,Crystal Palace,Crystal Palace,Away,0.0,0.04,0.11,0,0,0,0
+5795496,9,"Sat, Oct 31, 2026, 20:00 UTC",Aston Villa,Fulham,Aston Villa,Home,7.0,0.63,0.42,5,1,0,0
+5795496,9,"Sat, Oct 31, 2026, 20:00 UTC",Aston Villa,Fulham,Fulham,Away,7.0,1.51,0.74,4,0,0,0
+5795501,9,"Sun, Nov 1, 2026, 16:30 UTC",Liverpool,Arsenal,Liverpool,Home,7.0,0.93,0.12,2,0,1,0
+5795501,9,"Sun, Nov 1, 2026, 16:30 UTC",Liverpool,Arsenal,Arsenal,Away,4.0,0.94,0.04,1,0,0,0
+5795503,9,"Mon, Nov 2, 2026, 20:00 UTC",Newcastle United,Everton,Newcastle United,Home,4.0,1.11,0.18,3,0,0,0
+5795503,9,"Mon, Nov 2, 2026, 20:00 UTC",Newcastle United,Everton,Everton,Away,5.0,0.8,1.54,2,0,1,0
+5795508,10,"Fri, Nov 6, 2026, 20:00 UTC",Everton,Coventry City,Everton,Home,2.0,1.38,0.04,0,0,0,0
+5795508,10,"Fri, Nov 6, 2026, 20:00 UTC",Everton,Coventry City,Coventry City,Away,2.0,1.0,0.22,1,0,1,0
+5795511,10,"Sat, Nov 7, 2026, 12:30 UTC",Leeds United,Tottenham Hotspur,Leeds United,Home,6.0,0.69,1.27,6,0,0,0
+5795511,10,"Sat, Nov 7, 2026, 12:30 UTC",Leeds United,Tottenham Hotspur,Tottenham Hotspur,Away,4.0,0.63,0.09,1,0,0,0
+5795505,10,"Sat, Nov 7, 2026, 15:00 UTC",Arsenal,Hull City,Arsenal,Home,7.0,1.04,0.22,3,0,0,0
+5795505,10,"Sat, Nov 7, 2026, 15:00 UTC",Arsenal,Hull City,Hull City,Away,4.0,0.16,0.21,3,0,0,0
+5795509,10,"Sat, Nov 7, 2026, 15:00 UTC",Fulham,Newcastle United,Fulham,Home,3.0,0.44,0.26,2,0,0,0
+5795509,10,"Sat, Nov 7, 2026, 15:00 UTC",Fulham,Newcastle United,Newcastle United,Away,3.0,1.14,0.0,0,0,0,0
+5795513,10,"Sat, Nov 7, 2026, 17:30 UTC",Nottingham Forest,Manchester City,Nottingham Forest,Home,3.0,0.86,0.2,1,0,0,0
+5795513,10,"Sat, Nov 7, 2026, 17:30 UTC",Nottingham Forest,Manchester City,Manchester City,Away,7.0,1.64,0.12,2,0,0,0
+5795506,10,"Sun, Nov 8, 2026, 14:00 UTC",Brighton & Hove Albion,Brentford,Brighton & Hove Albion,Home,7.0,1.2,0.12,3,0,0,0
+5795506,10,"Sun, Nov 8, 2026, 14:00 UTC",Brighton & Hove Albion,Brentford,Brentford,Away,3.0,0.39,0.19,1,0,1,0
+5795507,10,"Sun, Nov 8, 2026, 14:00 UTC",Crystal Palace,Liverpool,Crystal Palace,Home,4.0,1.44,0.36,2,0,0,0
+5795507,10,"Sun, Nov 8, 2026, 14:00 UTC",Crystal Palace,Liverpool,Liverpool,Away,7.0,1.11,1.54,4,0,0,0
+5795510,10,"Sun, Nov 8, 2026, 14:00 UTC",Ipswich Town,AFC Bournemouth,Ipswich Town,Home,2.0,0.32,0.15,0,0,2,0
+5795510,10,"Sun, Nov 8, 2026, 14:00 UTC",Ipswich Town,AFC Bournemouth,AFC Bournemouth,Away,7.0,1.69,0.54,1,0,0,0
+5795514,10,"Sun, Nov 8, 2026, 14:00 UTC",Sunderland,Chelsea,Sunderland,Home,2.0,1.31,0.28,2,0,0,0
+5795514,10,"Sun, Nov 8, 2026, 14:00 UTC",Sunderland,Chelsea,Chelsea,Away,2.0,0.42,0.24,0,0,1,0
+5795512,10,"Sun, Nov 8, 2026, 16:30 UTC",Manchester United,Aston Villa,Manchester United,Home,8.0,2.36,0.4,3,1,0,0
+5795512,10,"Sun, Nov 8, 2026, 16:30 UTC",Manchester United,Aston Villa,Aston Villa,Away,1.0,0.38,1.71,0,0,0,0
